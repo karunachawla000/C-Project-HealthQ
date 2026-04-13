@@ -82,24 +82,6 @@ struct Patient {
 * Shift remaining elements
 * Time Complexity: **O(n)**
 
----
-
-## 📊 Sample Output
-
-```
-===== HealthQ System =====
-1. Add Patient
-2. Serve Patient
-3. Display Queue
-
-Queue:
-1 - Karuna (Critical)
-2 - Rahul (Normal)
-
-Now Serving: Karuna
-```
-
----
 
 ## 🚀 How to Run
 
@@ -124,10 +106,6 @@ Now Serving: Karuna
 * 📊 Advanced analytics dashboard
 * 🤖 AI-based priority prediction
 * 🌐 Web-based version
-
-## 💼 Resume Highlight
-
-Developed a **priority-based hospital queue management system in C**, implementing efficient scheduling using DSA concepts to optimize patient handling.
 
 ## 👨‍💻 Author
 
